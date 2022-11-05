@@ -27,9 +27,3 @@ request.onload = function () {
     );
   }
 };
-
-console.log(sum);
-var sum;
-
-sum = 100;
-console.log(sum);
